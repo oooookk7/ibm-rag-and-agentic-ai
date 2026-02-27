@@ -1,0 +1,26 @@
+Meeting Minutes  
+Date: [today]  
+Attendees: [not identifiable from context]  
+
+Key points discussed  
+- The repeated statement “I don’t know what you’re talking about / what to do with you” was voiced multiple times, indicating a complete lack of shared understanding or clarity on the topic, objectives, or next steps.  
+- No substantive agenda items, data, or proposals were introduced.  
+- No questions were answered and no resolution was reached.
+
+Decisions made  
+- None. The meeting was adjourned without agreement on any course of action.
+
+--------------------------------------------------
+
+Task List  
+1. Clarify the purpose and desired outcomes of this discussion.  
+   Owner: Meeting convener (TBD)  
+   Due: within 24 h  
+
+2. Compile and circulate a concise brief (≤1 page) that explains the subject matter, background, and specific questions to be addressed.  
+   Owner: Meeting convener (TBD)  
+   Due: 24 h after Task 1  
+
+3. Re-schedule a follow-up meeting only after Tasks 1 & 2 are completed and distributed.  
+   Owner: Meeting conviner (TBD)  
+   Due: 48 h from today
