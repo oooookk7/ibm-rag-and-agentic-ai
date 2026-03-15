@@ -1,0 +1,8 @@
+# Option 1: Use python -m pip
+python -m pip install numpy matplotlib
+
+# Option 2: Use pip3
+pip3 install numpy matplotlib
+
+# Option 3: Use your environment's package manager
+conda install numpy matplotlib  # if using conda
