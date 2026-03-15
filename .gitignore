@@ -210,3 +210,6 @@ __marimo__/
 .models
 08-*/leftover.py.*
 08-*/chroma_data
+
+# Autogen2
+.venv-test-autogen
